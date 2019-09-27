@@ -14,5 +14,3 @@
 [Домашный задание-7](https://nursultan001.github.io/project-7/src/ "Верстка первого макета.")
 
 [Домашный задание-8](https://nursultan001.github.io/project-8/src/ "Верстка через bootstrap .")
-
-[Домашный задание-9](https://nursultan001.github.io/project-9/src/ "Верстка через bootstrap .")
