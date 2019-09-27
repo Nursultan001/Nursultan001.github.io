@@ -1,0 +1,18 @@
+.text{
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+    margin-top: 130px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    padding: 120px 90px;
+    margin-top: 50px; 
+}
+img {
+    height: 100px;
+    margin: 0 auto 40px auto;
+    display: block;
+}
